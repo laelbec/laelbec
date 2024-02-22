@@ -31,6 +31,10 @@ My name is Lael Bec and I'm a first-year Computer Science student at the Univers
   I enjoyed this assignment as I like working with dictionaries, I found them easier for my to comprehend.
 
 
+### ☕️Java Assignments:
+- **Assignment 1 ()** 
+
+
 
 
 
