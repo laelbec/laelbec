@@ -11,17 +11,13 @@ My name is Lael Bec and I'm a first-year Computer Science student at the Univers
 ---
 
 ### 🐍 Python Assignments:
-### Assignment 1 (printing, basic calculations)
-This is my first python assignment where I created two simple ASCII art characters and printed them, as well as a function to calculate the surface area of a cylinder.
-[view code](assignment1.py)
+- **Assignment 1 (printing, basic calculations)** [view code](assignment1.py)  
+  This is my first python assignment where I created two simple ASCII art characters and printed them, as well as a function to calculate the surface area of a cylinder.
+- **Assignment 2 (doctest, global variables, if/elif/else statements)** [view code](assignment2.py)  
+  My second python assignment introduced doctest, global constants, and if/elif/else statements.
+- **Assignment 3 (return types, testing edge cases)** [view code](assignment3.py)  
+  This assignment taught me the difference between returning and printing variables, as well as the importance of testing edge cases
 
-### Assignment 2 (doctest, global variables, if/elif/else statements)
-My second python assignment introduced doctest, global constants, and if/elif/else statements.
-[view code](assignment2.py)
-
-### Assignment 3 (return types, testing edge cases)
-This assignment taught me the difference between returning and printing variables, as well as the importance of testing edge cases
-[view code](assignment3.py)
 
 
 
