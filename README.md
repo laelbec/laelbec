@@ -14,9 +14,8 @@ My name is Lael Bec and I'm a first-year Computer Science student at the Univers
 Python Assignments:
 -Assignment 1 (printing, basic calculations)
   This is my first python assignment where I created two simple ASCII art characters and printed them, as well as a function to calculate the surface area of a cylinder.
-  [view code][]
+  [view code](link-to-assignment1.py)
 
-[Uploading assignment1.py…]()
 
 
 
