@@ -19,15 +19,15 @@ My name is Lael Bec and I'm a first-year Computer Science student at the Univers
   This assignment taught me the difference between returning and printing variables, as well as the importance of testing edge cases.
 - **Assignment 4 (for/while loops)** [view code](assignment4.py)  
   I learned how to implement loops and when to use a for or while loop in this assignment.
-- **Assignment 5 (loops cont.)** [view code](assignment5.py)
+- **Assignment 5 (loops cont.)** [view code](assignment5.py)  
   This assignment focused on loops, and had me code functions to play a dice-rolling game, which I found very challenging but rewarding.
-- **Assignment 6 (lists)** [view code](assignment6.py)
+- **Assignment 6 (lists)** [view code](assignment6.py)  
   I was introduced to lists in this assignment, I learned how to append to a list and how to traverse through a list using the lists index.
-- **Assignment 7 (tuples)** [view code](assignment7.py)
+- **Assignment 7 (tuples)** [view code](assignment7.py)  
   This assignment introduced the tuples and how they are different from lists. I learned how to declare tuples at the top of my file, and how to create and work with them.
-- **Assignment 8 (read from files)** [view code](assignment8.py)
+- **Assignment 8 (read from files)** [view code](assignment8.py)  
   I found this assignment very interesting as I felt it was useful.
-- **Assignment 9 (dictionaries)** [view code](assignment9.py)
+- **Assignment 9 (dictionaries)** [view code](assignment9.py)  
   I enjoyed this assignment as I like working with dictionaries, I found them easier for my to comprehend.
 
 
