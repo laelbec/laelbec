@@ -35,30 +35,13 @@ My name is Lael Bec and I'm a first-year Computer Science student at the Univers
 
 
 ### ☕️Java Assignments:
-- **Assignment 1 (java notation)** [view code](A1Exercises.java)
-  This introductory assignment focused on the syntax and notation of writing methods in java, arrays
-- **Assignment 2 (classes)** [view code](A2Exercises.java)
-  [view fundraiser class](fundraiser.java)
-- **Assignment 3 (nodes, linked lists)** [view code](A3LinkedList.java)
-- **Assignment 4 (stacks, nodes)** [view code](A4Exercises.java) [view code](A4Stack.java)
-- **Assignment 5 (recursion)** [view code](A5Exercises.java) [view code](LinkedSongList.java)  
-
-
-
-
-
-
-<!--
-**laelbec/laelbec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Assignment 1 (java notation)** [view code](A1Exercises.java)  
+  This introductory assignment focused on the syntax and notation of writing methods in Java. I learned things like the difference between a list in Python and an array in Java, how to declare variables, etc.
+- **Assignment 2 (classes)** [view code](A2Exercises.java) [view fundraiser class](fundraiser.java)  
+  I found this assignment not too difficult to complete as I had already seen the concepts in python, it was only a matter of writing using Java syntax.
+- **Assignment 3 (nodes, linked lists)** [view code](A3LinkedList.java)  
+  This assignment explored nodes and linked list and had me implement various methods such as addFront/Back, removeFront/Back/Middle, and interleave. I found the concept of nodes and linked lists easy to understand, but the tracing to be more challenging.
+- **Assignment 4 (stacks, lists, generics)** [view code](A4Exercises.java) [view code](A4Stack.java)
+  Similar to the previous assignment, the concept of a stack seemed understandable, but the implementation and tracing took me a little longer to complete. I was introduced to generics in this assignment as the stack class had to be written generically, making it more functional.
+- **Assignment 5 (recursion)** [view code](A5Exercises.java) [view code](LinkedSongList.java)
+  This assignment continues with generics and introduces recursion. I found the tracing for recursion more challenging but after writing a few methods I was able to make sense of it faster. 
