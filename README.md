@@ -35,7 +35,12 @@ My name is Lael Bec and I'm a first-year Computer Science student at the Univers
 
 
 ### ☕️Java Assignments:
-- **Assignment 1 ()** 
+- **Assignment 1 (java notation)** [view code](A1Exercises.java)
+  This introductory assignment focused on the syntax and notation of writing methods in java, arrays
+- **Assignment 2 (classes)** [view code](A2Exercises.java)
+  [view fundraiser class](fundraiser.java)
+- **Assignment 3 (nodes, linked lists)** [view code](A3LinkedList.java)
+- **Assignment 4 (stacks, nodes)** [view code](A4Exercises.java) [view code](A4Stack.java)
 
 
 
