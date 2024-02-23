@@ -11,10 +11,11 @@ My name is Lael Bec and I'm a first-year Computer Science student at the Univers
 ---
 
 ### 🐍 Python Assignments:
+I have included all of my assignments from my first semester, however, the ones I am most proud of are 4, 5, 8, and 10. I am proud of the progress I have made from my first assignment to the last, as my confidence only grew throughout the semester.
 - **Assignment 1 (printing, basic calculations)** [view code](assignment1.py)  
   This is my first Python assignment and the first bit of code that I wrote on my own. I created two simple ASCII art characters and printed them, as well as a function to     calculate and print the surface area of a cylinder. 
 - **Assignment 2 (doctest, global variables, if/elif/else statements, f-string)** [view code](assignment2.py)  
-  My second Python assignment introduced doctest, global constants, if/elif/else statements, and f-strings. I found doctest particularly interesting and useful instead of manually testing each case. 
+  My second Python assignment introduced doctest, global constants, if/elif/else statements, and f-strings. I found doctest particularly interesting and useful instead of manually testing each case. Functions includ
 - **Assignment 3 (return types, testing edge cases)** [view code](assignment3.py)  
   This assignment taught me the difference between returning and printing variables, as well as the importance of testing edge cases. I enjoyed learning return types as I could now call previously written functions and make use of them in my other functions, and I quickly learned the importance of testing edge cases while submitting my assignment.
 - **Assignment 4 (for loops)** [view code](assignment4.py)  
@@ -31,16 +32,16 @@ My name is Lael Bec and I'm a first-year Computer Science student at the Univers
   This assignment incorporated dictionaries, which I thoroughly enjoyed as I found them easy for me to comprehend with many useful applications.
 - **Assignment 10 (classes)** [view code](assignment10.py)  
   [view race time class](race_time.py) [view race result class](race_result.py)  
-  I found this assignment particularly interesting as it featured how to make unique classes and instances, which opened up a whole new realm of possibilities.
+  I found this assignment particularly interesting as it featured how to make unique classes and instances, which opened up a whole new realm of possibilities. I find it interesting to look back at my first assignment and compare it to this one to see how far I have come.
 
 
 ### ☕️Java Assignments:
 - **Assignment 1 (java notation)** [view code](A1Exercises.java)  
-  This introductory assignment focused on the syntax and notation of writing methods in Java. I learned things like the difference between a list in Python and an array in Java, how to declare variables, etc.
+  This introductory assignment focused on the syntax and notation of writing methods in Java, which had some methods written and I had to debug them, and others I had to complete. I learned things like the difference between a list in Python and an array in Java, how to declare variables, etc.
 - **Assignment 2 (classes)** [view code](A2Exercises.java) [view fundraiser class](fundraiser.java)  
-  I found this assignment not too difficult to complete as I had already seen the concepts in python, it was only a matter of writing using Java syntax.
+  I found this assignment not too difficult to complete as I had already seen the concepts in Python, it was only a matter of writing using Java syntax.
 - **Assignment 3 (nodes, linked lists)** [view code](A3LinkedList.java)  
-  This assignment explored nodes and linked list and had me implement various methods such as addFront/Back, removeFront/Back/Middle, and interleave. I found the concept of nodes and linked lists easy to understand, but the tracing to be more challenging.
+  This assignment explored nodes and linked lists and had me implement various methods such as addFront/Back, removeFront/Back/Middle, and interleave. I found the concept of nodes and linked lists easy to understand, but the tracing to be more challenging.
 - **Assignment 4 (stacks, lists, generics)** [view code](A4Exercises.java) [view code](A4Stack.java)
   Similar to the previous assignment, the concept of a stack seemed understandable, but the implementation and tracing took me a little longer to complete. I was introduced to generics in this assignment as the stack class had to be written generically, making it more functional.
 - **Assignment 5 (recursion)** [view code](A5Exercises.java) [view code](LinkedSongList.java)
