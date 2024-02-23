@@ -12,26 +12,26 @@ My name is Lael Bec and I'm a first-year Computer Science student at the Univers
 
 ### 🐍 Python Assignments:
 - **Assignment 1 (printing, basic calculations)** [view code](assignment1.py)  
-  This is my first python assignment where I created two simple ASCII art characters and printed them, as well as a function to calculate the surface area of a cylinder.
-- **Assignment 2 (doctest, global variables, if/elif/else statements)** [view code](assignment2.py)  
-  My second python assignment introduced doctest, global constants, and if/elif/else statements.
+  This is my first Python assignment and the first bit of code that I wrote on my own. I created two simple ASCII art characters and printed them, as well as a function to     calculate and print the surface area of a cylinder. 
+- **Assignment 2 (doctest, global variables, if/elif/else statements, f-string)** [view code](assignment2.py)  
+  My second Python assignment introduced doctest, global constants, if/elif/else statements, and f-strings. I found doctest particularly interesting and useful instead of manually testing each case. 
 - **Assignment 3 (return types, testing edge cases)** [view code](assignment3.py)  
-  This assignment taught me the difference between returning and printing variables, as well as the importance of testing edge cases.
-- **Assignment 4 (for/while loops)** [view code](assignment4.py)  
-  I learned how to implement loops and when to use a for or while loop in this assignment.
-- **Assignment 5 (loops cont.)** [view code](assignment5.py)  
-  This assignment focused on loops, and had me code functions to play a dice-rolling game, which I found very challenging but rewarding.
+  This assignment taught me the difference between returning and printing variables, as well as the importance of testing edge cases. I enjoyed learning return types as I could now call previously written functions and make use of them in my other functions, and I quickly learned the importance of testing edge cases while submitting my assignment.
+- **Assignment 4 (for loops)** [view code](assignment4.py)  
+  I learned how to implement for loops in this assignment. The function print_rocket_ship was very challenging for me as I had to follow a pattern given to me by my professors. Once I was able to recognize the pattern for different parts of the rocket ship, I was able to see how useful loops are.
+- **Assignment 5 (while loops)** [view code](assignment5.py)  
+  This assignment focused on condition-driven loops, it took me a while to understand how to write the condition to give the desired output but I was able to get the hang of it. I was asked to code functions to play a dice-rolling game, which I found very challenging but rewarding.
 - **Assignment 6 (lists)** [view code](assignment6.py)  
-  I was introduced to lists in this assignment, I learned how to append to a list and how to traverse through a list using the lists index.
+  I was introduced to lists in this assignment, I learned how to append to a list and how to traverse through a list using the lists index. This assignment had me use more while loops, which was good, much-needed practice.
 - **Assignment 7 (tuples)** [view code](assignment7.py)  
   This assignment introduced the tuples and how they are different from lists. I learned how to declare tuples at the top of my file, and how to create and work with them.
 - **Assignment 8 (read from files)** [view code](assignment8.py)  
-  I found this assignment very interesting as I felt it was useful.
+  I found this assignment (which introduced reading from a file) very interesting as I felt it allowed for more real-world application than I knew was possible.
 - **Assignment 9 (dictionaries)** [view code](assignment9.py)  
-  I enjoyed this assignment as I like working with dictionaries, I found them easier for my to comprehend.
+  This assignment incorporated dictionaries, which I thoroughly enjoyed as I found them easy for me to comprehend with many useful applications.
 - **Assignment 10 (classes)** [view code](assignment10.py)  
   [view race time class](race_time.py) [view race result class](race_result.py)  
-  I found this assignment particularly interesting.
+  I found this assignment particularly interesting as it featured how to make unique classes and instances, which opened up a whole new realm of possibilities.
 
 
 ### ☕️Java Assignments:
