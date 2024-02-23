@@ -41,7 +41,7 @@ My name is Lael Bec and I'm a first-year Computer Science student at the Univers
   [view fundraiser class](fundraiser.java)
 - **Assignment 3 (nodes, linked lists)** [view code](A3LinkedList.java)
 - **Assignment 4 (stacks, nodes)** [view code](A4Exercises.java) [view code](A4Stack.java)
-
+- **Assignment 5 (recursion)** [view code](A5Exercises.java) [view code](LinkedSongList.java)  
 
 
 
