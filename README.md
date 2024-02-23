@@ -29,7 +29,8 @@ My name is Lael Bec and I'm a first-year Computer Science student at the Univers
   I found this assignment very interesting as I felt it was useful.
 - **Assignment 9 (dictionaries)** [view code](assignment9.py)  
   I enjoyed this assignment as I like working with dictionaries, I found them easier for my to comprehend.
-- **Assignment 10 (classes)** [view code](assignment10.py) [view class](race_time.py) [view class](race_result.py)  
+- **Assignment 10 (classes)** [view code](assignment10.py)  
+  [view race time class](race_time.py) [view race result class](race_result.py)  
   I found this assignment particularly interesting.
 
 
