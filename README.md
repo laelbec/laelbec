@@ -1,5 +1,5 @@
 ### 👩‍💻About Me:
-My name is Lael Bec and I'm a first-year Computer Science student at the University of Victoria.
+My name is Lael Bec and I'm a first-year Computer Science student at the University of Victoria. During my first semester of university, I Learned Python, and I am currently learning Java. I thoroughly enjoy the problem-solving that comes with coding, although sometimes frustrating, I find it to be a very rewarding process. Welcome to my showcase of skills and projects, which documents my journey of learning to code, starting with my first ever pieces of code, to my most recent. 
 ---
 ### 🛠️ Languages and Tools:
 <div>
