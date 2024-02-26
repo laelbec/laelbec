@@ -33,9 +33,13 @@ I have included all of my assignments from my first semester, however, the ones 
 - **Assignment 10 (classes)** [view code](assignment10.py)  
   [view race time class](race_time.py) [view race result class](race_result.py)  
   I found this assignment particularly interesting as it featured how to make unique classes and instances, which opened up a whole new realm of possibilities. I find it interesting to look back at my first assignment and compare it to this one to see how far I have come.
-
+  
+### 🐍Python Word Guessing Game
+This is a personal project of mine where I created a word bank and then a hangman-esque word guessing game. I enjoyed the process and I used feedback from my siblings to add details to help the players experience such as printing the word length, the words and letters guessed, and the number of tries left.
+[view code](word_game.py) [view word bank](words.txt)
 
 ### ☕️Java Assignments:
+As I am still currently learning java, this section is still a work in progress.
 - **Assignment 1 (java notation)** [view code](A1Exercises.java)  
   This introductory assignment focused on the syntax and notation of writing methods in Java, which had some methods written and I had to debug them, and others I had to complete. I learned things like the difference between a list in Python and an array in Java, how to declare variables, etc.
 - **Assignment 2 (classes)** [view code](A2Exercises.java) [view fundraiser class](fundraiser.java)  
