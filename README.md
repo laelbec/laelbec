@@ -46,7 +46,9 @@ As I am still currently learning java, this section is still a work in progress.
   I found this assignment not too difficult to complete as I had already seen the concepts in Python, it was only a matter of writing using Java syntax.
 - **Assignment 3 (nodes, linked lists)** [view code](A3LinkedList.java)  
   This assignment explored nodes and linked lists and had me implement various methods such as addFront/Back, removeFront/Back/Middle, and interleave. I found the concept of nodes and linked lists easy to understand, but the tracing to be more challenging.
-- **Assignment 4 (stacks, lists, generics)** [view code](A4Exercises.java) [view code](A4Stack.java)
+- **Assignment 4 (stacks, lists, generics)** [view code](A4Exercises.java) [view A4Stack](A4Stack.java)  
   Similar to the previous assignment, the concept of a stack seemed understandable, but the implementation and tracing took me a little longer to complete. I was introduced to generics in this assignment as the stack class had to be written generically, making it more functional.
-- **Assignment 5 (recursion)** [view code](A5Exercises.java) [view code](LinkedSongList.java)
-  This assignment continues with generics and introduces recursion. I found the tracing for recursion more challenging but after writing a few methods I was able to make sense of it faster. 
+- **Assignment 5 (recursion)** [view code](A5Exercises.java) [view LinkedSongList](LinkedSongList.java)  
+  This assignment continues with generics and introduces recursion. I found the tracing for recursion more challenging but after writing a few methods I was able to make sense of it faster.
+- **Assignment 6 (exceptions)** [view GenericQueue](GenericQueue.java) [view EventLine](EventLine.java)  
+  I was briefly introduced to exceptions while learning Python, but I never got that much practice with them. Having a little bit of prior exposure helped with my understanding and it was good to have practice actually coding and working with exceptions. I first added exceptions to the GenericQueue class and then used a queue implementation to simulate a lineup of people waiting to enter an event. 
